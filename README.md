@@ -4,7 +4,9 @@ Blackmarket som udnytter ox ting
 
 # Configs
 *Du kan nemt selv tilføje og fjerne item som man skal købe*
+
 *Du kan nemt selv ændrer på stedet han skal være*
+
 *Du kan nemt selv ændrer i priserne*
 
 
